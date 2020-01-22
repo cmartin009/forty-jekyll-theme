@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Carlos Martinez Jr.'
-description: null
+description: I am a Computational Linguistics Graduate Student and NLP Research Assistant at Montclair State University
 image: null
 author: null
 show_tile: false
